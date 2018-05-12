@@ -1,0 +1,41 @@
+_repo: The-Vnfortunate-Traveller-or-The-Life-Of-Jack-WiltonWith-An-Essay-On-The-Life-And-Writings-Of__21338
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund William, Sir
+    - Gosse, Edmund W. (Edmund William)
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nash, Thomas
+    birthdate: 1567
+    deathdate: 1601
+    gutenberg_agent_id: '7595'
+    url: http://www.gutenberg.org/2009/agents/7595
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Nashe
+description: ''
+gutenberg_issued: '2007-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21338'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Travelers -- Fiction'
+- !lcsh 'Adventure stories'
+title: 'The Vnfortunate Traveller, or The Life Of Jack Wilton
+
+  With An Essay On The Life And Writings Of Thomas Nash By Edmund Gosse'
+url: http://www.gutenberg.org/ebooks/21338
